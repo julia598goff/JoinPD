@@ -2,7 +2,7 @@
 
 ## Description
 
-<a href="https://www.joinpd.cc">JoinPD</a> is a dynamic web application designed to help users manage and track their expenses efficiently. The app offers a user-friendly interface and powerful features to add, view, and categorize expenses. Whether you're a student, a professional, or anyone looking to keep their finances in check, JoinPD is here to make expense management easier and more intuitive.
+JoinPD is a dynamic web application designed to help users manage and track their expenses efficiently. The app offers a user-friendly interface and powerful features to add, view, and categorize expenses. Whether you're a student, a professional, or anyone looking to keep their finances in check, JoinPD is here to make expense management easier and more intuitive.
 
 ## Features
 
@@ -23,7 +23,7 @@
 
 - **Name**: Your A/C Name
 - **Email**: your@example.com
-- **Website**: [JoinPD](https://joinpd.com)
+- **Website**: [JoinPD](https://www.joinpd.cc)
 
 ## Getting Started
 
